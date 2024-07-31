@@ -1,0 +1,399 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "b462115f-9e58-47b0-aa38-0e20ddec1cf1",
+   "metadata": {},
+   "source": [
+    "Q1. What is Statistics?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "40876c8f-b573-4377-a940-00680581f823",
+   "metadata": {},
+   "source": [
+    "Ans. Statistics is the science concerned with developing and studying methods for collecting, analyzing, interpreting and presenting empirical data.\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "cd5c8ee1-b315-4097-ad28-7a40d081dd2a",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e4c5a027-814c-424d-8816-d09672e4c718",
+   "metadata": {},
+   "source": [
+    "Q2. Define the different types of statistics and give an example of when each type might be used."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b86453f4-386b-4b5d-962a-040fd1e80533",
+   "metadata": {},
+   "source": [
+    "Ans. The two major areas of statistics are known as descriptive statistics, which describes the properties of sample and population data, and inferential statistics, which uses those properties to test hypotheses and draw conclusions. Descriptive statistics include mean (average), variance, skewness, and kurtosis."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f87f883c-5ad6-423e-97dc-1960d4fb2628",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d86c75c6-23a2-4145-8db8-810c1dcb61d6",
+   "metadata": {},
+   "source": [
+    "Q3. What are the different types of data and how do they differ from each other? Provide an example of\n",
+    "each type of data."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0de2f8b0-04c7-4681-bb20-5548a21eeeb9",
+   "metadata": {},
+   "source": [
+    "The data in statistics is classified into four categories:\n",
+    "\n",
+    "Qualitative Data (Categorical Data)\n",
+    "\n",
+    "1. Nominal data - Nominal data is a type of data that consists of categories or names that cannot be ordered or ranked.\n",
+    "Examples of nominal data include gender (Male or female), race (White, Black, Asian), religion (Hinuduism, Christianity, Islam, Judaism), and blood type (A, B, AB, O).\n",
+    "\n",
+    "2. Ordinal data - Ordinal data is a type of data that consists of categories that can be ordered or ranked.\n",
+    "Examples of ordinal data include education level (Elementary, Middle, High School, College), job position (Manager, Supervisor, Employee), etc. \n",
+    "\n",
+    "\n",
+    "Quantitative Data (Numerical Data)\n",
+    "\n",
+    "3. Discrete data - Discrite data type is a type of data in statistics that only uses Discrete Value or Single Values. These data types have values that can be easily counted as whole numbers. The example of the discreate data types are,\n",
+    "\n",
+    "   Height of Students in a class\n",
+    "\n",
+    "   Marks of the students in a class test\n",
+    "\n",
+    "   Weight of different members of a family, etc.\n",
+    "\n",
+    "4. Continuous data - Continuous data is the type of the quantitative data that represent the data in a continuous range. The variable in the data set can have any value between the range of the data set. Examples of the continuous data types are,\n",
+    "\n",
+    "   Temperature Range\n",
+    "\n",
+    "   Salary range of Workers in a Factory, etc.\n",
+    "\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "0e98f661-dce6-4006-a829-1340bec290b3",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "240a450d-ef06-4aa3-a1be-07db3e4fc6c1",
+   "metadata": {},
+   "source": [
+    "Q4. Categorise the following datasets with respect to quantitative and qualitative data types:\n",
+    "\n",
+    "(i) Grading in exam: A+, A, B+, B, C+, C, D, E - \"Quantitative data\"\n",
+    "\n",
+    "(ii) Colour of mangoes: yellow, green, orange, red - \"Qualitaive data\" \n",
+    "\n",
+    "(iii) Height data of a class: [178.9, 179, 179.5, 176, 177.2, 178.3, 175.8,...] - \"Quantitative data\" \n",
+    "\n",
+    "(iv) Number of mangoes exported by a farm: [500, 600, 478, 672, ...] -  \"Quantitative data\" "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "fe7b3f83-8330-4fda-8214-f83ced978014",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7406e3fa-27d3-4353-8c4d-82ffe1994927",
+   "metadata": {},
+   "source": [
+    "Q5. Explain the concept of levels of measurement and give an example of a variable for each level.\n",
+    "\n",
+    "Nominal: the data can only be categorized. \n",
+    "\n",
+    "Ordinal: the data can be categorized and ranked\n",
+    "\n",
+    "Interval: the data can be categorized, ranked, and evenly spaced\n",
+    "\n",
+    "Ratio: the data can be categorized, ranked, evenly spaced, and has a natural zero.\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1355811c-5448-4c22-96c5-38eea52a0044",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b07e30f9-8f94-4571-9889-c690d481db64",
+   "metadata": {},
+   "source": [
+    "Q6. Why is it important to understand the level of measurement when analyzing data? Provide an\n",
+    "example to illustrate your answer.\n",
+    "\n",
+    "Nominal data: You can categorize your data by labelling them in mutually exclusive groups, but there is no order between the categories.\t\n",
+    "\n",
+    "City of birth\n",
+    "\n",
+    "Gender\n",
+    "\n",
+    "Car brands\n",
+    "\n",
+    "Marital status\n",
+    "    \n",
+    "Ordinal data: You can categorize and rank your data in an order, but you cannot say anything about the intervals between the rankings.\n",
+    "\n",
+    "Top 5 Olympic medallists\n",
+    "\n",
+    "Language ability (e.g., beginner, intermediate, fluent)\n",
+    "    \n",
+    "    \n",
+    "Interval data: You can categorize, rank, and infer equal intervals between neighboring data points, but there is no true zero point.\n",
+    "\n",
+    "Test scores (e.g., IQ or exams)\n",
+    "\n",
+    "Personality inventories\n",
+    "\n",
+    "Temperature in Fahrenheit or Celsius\n",
+    "    \n",
+    "\n",
+    "Ratio data: You can categorize, rank, and infer equal intervals between neighboring data points, and there is a true zero point.\n",
+    "\n",
+    "Height\n",
+    "\n",
+    "Age\n",
+    "\n",
+    "Weight\n",
+    "\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6682f5bf-f281-4739-b447-8a399056366e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e18c485a-49f6-4c26-8554-8fa3dc7f56ae",
+   "metadata": {},
+   "source": [
+    "Q7. How nominal data type is different from ordinal data type.\n",
+    "\n",
+    "Ordinal data is data that can be ranked or ordered. Examples include data taken from a poll or survey. Nominal data is data that can be made to fit various categories. Examples include whether an animal is a mammal, fish, reptile, amphibian, or bird."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6ad16990-1457-4e4d-9425-30f74cf65c11",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "56ff94e1-c0c2-47c0-a548-8e2779377a24",
+   "metadata": {},
+   "source": [
+    "Q8. Which type of plot can be used to display data in terms of range?\n",
+    "\n",
+    "Histograms. In a histogram, the range is the width that the bars cover along the x-axis. These are approximate values because histograms display bin values rather than raw data values."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "94db4e22-f5fd-4b91-b5ea-d79533666a44",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1afef04f-a960-4327-8661-4c74b12d783c",
+   "metadata": {},
+   "source": [
+    "Q9. Describe the difference between descriptive and inferential statistics. Give an example of each\n",
+    "type of statistics and explain how they are used.\n",
+    "\n",
+    "Descriptive statistics are used to describe the main features of an entire set of data collected in a study. Inferential statistics are used to draw conclusions and make predictions about an entire population based on the data from a representative sample."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7d9b76ed-d812-4303-850e-a4074d890920",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "bc28d923-9d04-46ca-a1c9-208e2fcc6b3a",
+   "metadata": {},
+   "source": [
+    "Q10. What are some common measures of central tendency and variability used in statistics? Explain\n",
+    "how each measure can be used to describe a dataset.\n",
+    "\n",
+    "The central tendency measure is defined as the number used to represent the center or middle of a set of data values. The three commonly used measures of central tendency are the mean, median, and mode. \n",
+    "\n",
+    "Mean\n",
+    "\n",
+    "The mean is the arithmetic average, and it is probably the measure of central tendency that you are most familiar. Calculating the mean is very simple. You just add up all of the values and divide by the number of observations in your dataset.\n",
+    "\n",
+    "Median \n",
+    "\n",
+    "The median is the middle value. It is the value that splits the dataset in half, making it a natural measure of central tendency.\n",
+    "\n",
+    "To find the median, order your data from smallest to largest, and then find the data point that has an equal number of values above it and below it. The method for locating the median varies slightly depending on whether your dataset has an even or odd number of values. \n",
+    "\n",
+    "\n",
+    "Mean, Median, and Mode: Measures of Central Tendency\n",
+    "By Jim Frost 131 Comments\n",
+    "\n",
+    "What is Central Tendency?\n",
+    "Measures of central tendency are summary statistics that represent the center point or typical value of a dataset. Examples of these measures include the mean, median, and mode. These statistics indicate where most values in a distribution fall and are also referred to as the central location of a distribution. You can think of central tendency as the propensity for data points to cluster around a middle value.\n",
+    "\n",
+    "In statistics, the mean, median, and mode are the three most common measures of central tendency. Each one calculates the central point using a different method. Choosing the best measure of central tendency depends on the type of data you have. In this post, I explore the mean, median, and mode as measures of central tendency, show you how to calculate them, and how to determine which one is best for your data.\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "Advertisement\n",
+    "Locating the Measures of Central Tendency\n",
+    "Most articles about the mean, median, and mode focus on how you calculate these measures of central tendency. I’ll certainly to that, but I’m going to start with a slightly different approach. My philosophy throughout my blog is to help you intuitively grasp statistics by focusing on concepts. Consequently, I’m going to start by illustrating the central point of several datasets graphically—so you understand the goal. Then, we’ll move on to choosing the best measure of central tendency for your data and the calculations.\n",
+    "\n",
+    "The three distributions below represent different data conditions. In each distribution, look for the region where the most common values fall. Even though the shapes and type of data are different, you can find that central tendency. That’s the area in the distribution where the most common values are located. These examples cover the mean, median, and mode.\n",
+    "\n",
+    "Histogram that shows a continuous, symmetric distribution. The area of central tendency is circled.\n",
+    "Advertisement\n",
+    "Histogram that shows a continuous, skewed distribution. The area of central tendency is circled.\n",
+    "Bar chart of ice cream preference to illustrate the central tendency for categorical data.\n",
+    "As the graphs highlight, you can see where most values tend to occur. That’s the concept. Measures of central tendency represent this idea with a value. Coming up, you’ll learn that as the distribution and kind of data changes, so does the best measure of central tendency. Consequently, you need to know the type of data you have, and graph it, before choosing between the mean, median, and mode!\n",
+    "\n",
+    "Advertisement\n",
+    "Related posts: Guide to Data Types and How to Graph Them\n",
+    "\n",
+    "Whether you’re using the mean, median, or mode, the central tendency is only one characteristic of a distribution. Another aspect is the variability around that central value. While measures of variability is the topic of a different article (link below), this property describes how far away the data points tend to fall from the center. The graph below shows how distributions with the same central tendency (mean = 100) can actually be quite different. The panel on the left displays a distribution that is tightly clustered around the mean, while the distribution on the right is more spread out. It is crucial to understand that the central tendency summarizes only one aspect of a distribution and that it provides an incomplete picture by itself.\n",
+    "\n",
+    "Graph that shows two distributions with more and less variability.\n",
+    "Advertisement\n",
+    "Related post: Measures of Variability: Range, Interquartile Range, Variance, and Standard Deviation\n",
+    "\n",
+    "Mean\n",
+    "The mean is the arithmetic average, and it is probably the measure of central tendency that you are most familiar. Calculating the mean is very simple. You just add up all of the values and divide by the number of observations in your dataset.\n",
+    "\n",
+    "Mean formula.\n",
+    "Advertisement\n",
+    "The calculation of the mean incorporates all values in the data. If you change any value, the mean changes. However, the mean doesn’t always locate the center of the data accurately. Observe the histograms below where I display the mean in the distributions.\n",
+    "\n",
+    "Histogram of a symmetric distribution that shows the mean as an accurate measure of central tendency.\n",
+    "In a symmetric distribution, the mean locates the center accurately.\n",
+    "\n",
+    "Advertisement\n",
+    "Histogram of a skewed distribution that shows how the outlier influence the mean as a measure of central tendency.\n",
+    "However, in a skewed distribution, the mean can miss the mark. In the histogram above, it is starting to fall outside the central area. This problem occurs because outliers have a substantial impact on the mean as a measure of central tendency. Extreme values in an extended tail pull the mean away from the center. As the distribution becomes more skewed, the mean is drawn further away from the center. Consequently, it’s best to use the mean as a measure of the central tendency when you have a symmetric distribution. More about this issue when we look at the mean vs median!\n",
+    "\n",
+    "In statistics, we generally use the arithmetic mean, which is the type I discuss in this post. However, there are other types of means, such as the geometric mean. Read my post about the geometric mean to learn when it is a better measure. Use a weighted mean when you need to place differing importance on the values.\n",
+    "\n",
+    "Learn about .\n",
+    "\n",
+    "When to use the mean: Symmetric distribution, Continuous data\n",
+    "\n",
+    "Related posts: Using Histograms to Understand Your Data, What is the Mean?, and Sample Mean vs. Population Mean\n",
+    "\n",
+    "Median\n",
+    "The median is the middle value. It is the value that splits the dataset in half, making it a natural measure of central tendency.\n",
+    "\n",
+    "To find the median, order your data from smallest to largest, and then find the data point that has an equal number of values above it and below it. The method for locating the median varies slightly depending on whether your dataset has an even or odd number of values. I’ll show you how to find the median for both cases. In the examples below, I use whole numbers for simplicity, but you can have decimal places.\n",
+    "\n",
+    "In the dataset with the odd number of observations, notice how the number 12 has six values above it and six below it. Therefore, 12 is the median of this dataset.\n",
+    "\n",
+    "Data set with an odd number of values for finding the median.\n",
+    "When there is an even number of values, you count in to the two innermost values and then take the average. The average of 27 and 29 is 28. Consequently, 28 is the median of this dataset.\n",
+    "\n",
+    "Data set with an even number of observations for finding the median.\n",
+    "Outliers and skewed data have a smaller effect on the median than the mean as a measures of central tendency. To understand why, imagine we have the Median dataset below and find that the median is 46. However, we discover data entry errors and need to change four values, which are shaded in the Median Fixed dataset. We’ll make them all significantly higher so that we now have a skewed distribution with large outliers.\n",
+    "\n",
+    "Data set that shows how outliers have a smaller effect on the median as a measure of central tendency.\n",
+    "As you can see, the median doesn’t change at all. It is still 46. When comparing the mean vs median, the mean depends on all values in the dataset while the median does not. Consequently, when some of the values are more extreme, the effect on the median is smaller. Of course, with other types of changes, the median can change. When you have a skewed distribution, the median is a better measure of central tendency than the mean.\n",
+    "\n",
+    "Related post: Skewed Distributions\n",
+    "\n",
+    "Mean vs Median as Measures of Central Tendency\n",
+    "Now, let’s compare the mean vs median as measures of central tendency on symmetrical and skewed distributions to see how they perform. The histograms below allow us to compare these two statistics directly.\n",
+    "\n",
+    "Histogram that shows a continuous, symmetric distribution. The mean and median are approximately equal and accurately locate the center of the distribution.\n",
+    "In a symmetric distribution, the mean and median both find the center accurately. They are approximately equal, and both are valid measures of central tendency.\n",
+    "\n",
+    "Histogram that shows a continuous, skewed distribution. The outliers n the distribution tail pull the mean from the center. The median better represents the middle of this dataset.\n",
+    "In a skewed distribution, the outliers in the tail pull the mean away from the center towards the longer tail. For this example, the mean vs median differs by over 9000. The median better represents the central tendency for the skewed distribution.\n",
+    "\n",
+    "These data are based on the U.S. household income for 2006. Income is the classic example of when to use the median instead of the mean because its distribution tends to be skewed. The median indicates that half of all incomes fall below 27581, and half are above it. For these data, the mean overestimates where most household incomes fall.\n",
+    "\n",
+    "To learn more about incomes and their right-skewed distributions, read my post about Global Income Distributions.\n",
+    "\n",
+    "Statisticians say that the median is a robust statistic while the mean is sensitive to outliers and skewed distributions.\n",
+    "\n",
+    "The trimmed mean is a measure of central tendency that is more robust than the regular mean but less robust than the median. Learn when and how to use it in my article, Trimmed Mean: Definition, Calculating & Benefits.\n",
+    "\n",
+    "When to use the median: Skewed distribution, Continuous data, Ordinal data\n",
+    "\n",
+    "Related posts: Median Definition and Uses and What are Robust Statistics?\n",
+    "\n",
+    "Mode\n",
+    "The mode is the value that occurs the most frequently in your data set, making it a different type of measure of central tendency than the mean or median."
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.8"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
